@@ -96,3 +96,5 @@ Clone the repository and install dependencies:
 git clone https://github.com/juliocbeckman/grad-admission-predictor.git
 cd grad-admission-predictor
 pip install -r requirements.txt
+
+Project by Julio C. Beckman
