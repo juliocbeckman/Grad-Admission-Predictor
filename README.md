@@ -1,4 +1,4 @@
-# 🎓 Grad Admission Predictor
+# 🎓 Grad School Acceptance Predictor: A Data Science Approach
 
 This project builds and evaluates several machine learning models to predict a student's chance of being admitted to a graduate program based on standardized test scores, academic performance, and research experience.
 
