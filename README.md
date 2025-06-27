@@ -93,6 +93,6 @@ It handles non-linear relationships well, is robust to overfitting, and provides
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/grad-admission-predictor.git
+git clone https://github.com/juliocbeckman/grad-admission-predictor.git
 cd grad-admission-predictor
 pip install -r requirements.txt
