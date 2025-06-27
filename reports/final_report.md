@@ -73,4 +73,3 @@ We trained and compared multiple regression models:
 This project demonstrates how structured academic data can be used to train regression models that output interpretable predictions. It showcases a full ML pipeline including preprocessing, training, evaluation, and insight extraction using Python and scikit-learn.
 
 📁 Project by Julio Beckman & Jay Ortiz-Pimentel  
-📆 Due: 5/1/2025 · Instructor: Safwat Hamad
